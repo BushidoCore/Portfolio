@@ -19,27 +19,27 @@ const Contact = () => {
     {
       icon: FiMail,
       label: 'Email',
-      value: 'adhithyak@example.com',
-      href: 'mailto:adhithyak@example.com'
+      value: 'kadhi803@gmail.com',
+      href: 'mailto:kadhi803@gmail.com'
     },
     {
       icon: FiPhone,
       label: 'Phone',
-      value: '+91 98765 43210',
-      href: 'tel:+919876543210'
+      value: '+91 9123582962',
+      href: 'tel:+919123582962'
     },
     {
       icon: FiMapPin,
       label: 'Location',
-      value: 'Chennai, Tamil Nadu, India',
+      value: 'Madurai, Tamil Nadu, India',
       href: null
     }
   ]
 
   const socialLinks = [
     { icon: FiLinkedin, href: 'https://linkedin.com', label: 'LinkedIn' },
-    { icon: FiGithub, href: 'https://github.com', label: 'GitHub' },
-    { icon: FiInstagram, href: 'https://instagram.com', label: 'Instagram' }
+    { icon: FiGithub, href: 'https://github.com/BushidoCore', label: 'GitHub' },
+    { icon: FiInstagram, href: 'https://www.instagram.com/fushi._guro?igsh=MWU5c3VkOHZleWR0ZA==', label: 'Instagram' }
   ]
 
   const validateForm = () => {
