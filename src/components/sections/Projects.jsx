@@ -16,7 +16,7 @@ const Projects = () => {
       title: 'Chatly',
       subtitle: 'Chat App UI Prototype',
       description: 'A modern chat application UI prototype featuring real-time messaging interface, responsive design, and smooth animations. Built with React and TailwindCSS.',
-      image: 'https://images.unsplash.com/photo-1611746872915-64382b5c2b46?w=800&h=600&fit=crop',
+      image: 'https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800&h=600&fit=crop',
       tags: ['React', 'TailwindCSS', 'Framer Motion'],
       category: 'web',
       liveLink: '#',
